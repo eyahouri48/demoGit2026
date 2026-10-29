@@ -1,4 +1,12 @@
 lion
 chienne
 chat
+<<<<<<< HEAD
 lapin
+=======
+lapin
+tigre
+tortue
+mouton
+oiseau
+>>>>>>> bbc54a965a4092acb8c5a748fb592e4d86a19335
