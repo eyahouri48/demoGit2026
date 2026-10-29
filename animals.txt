@@ -4,3 +4,5 @@ chat
 lapin
 tigre
 tortue
+mouton
+oiseau
